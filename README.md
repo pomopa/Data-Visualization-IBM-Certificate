@@ -23,3 +23,13 @@ Below are some preview images showcasing some of the visualizations developed as
 
 ### Yearly Report Dashboard - Final Assignment P2
 ![Yearly Report Graphs](demo/YearlyReportgraphs.png)
+
+---
+
+## 📜 Certification
+IBM Data Visualization with Python — Coursera (IBM Data Science Professional Certificate Track)
+Credential: https://coursera.org/verify/2CI47UYSRNE9
+
+---
+
+⭐ If you found this helpful or interesting, feel free to star the repository!
